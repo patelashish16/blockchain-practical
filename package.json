@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-api-test",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server/server.js",
+    "demo": "node src/demo.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8"
+  }
+}
